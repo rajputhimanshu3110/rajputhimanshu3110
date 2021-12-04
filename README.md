@@ -15,11 +15,11 @@ You can click the Preview link to take a look at your changes.
 ### ✨ My GitHub Stats!
 ---
 <p><a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=decifur&show_icons=true&include_all_commits=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viraj3110&show_icons=true&include_all_commits=true&theme=dark" />
 </a></p>
 <p><a href="#">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=decifur&theme=dark" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=viraj3110&theme=dark" />
 </a></p>
 <p><a href="#">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=decifur&theme=xcode" />
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=viraj3110&theme=xcode" />
 </a></p>
