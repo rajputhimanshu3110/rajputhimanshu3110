@@ -1,11 +1,8 @@
-- 👋 Hi, I’m Himanshu Singh
+- 👋 Hi, This is Himanshu Singh
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on MERN projects
-- Language that I prefer to work
- 1. Python
- 2. PHP
- 3. JavaScript
+- 🌱 I’m currently learning Data Structures and Algorithm
+
+
 
 
 <!---
@@ -13,7 +10,7 @@ viraj3110/viraj3110 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://twitter.com/singhhimanshu3110" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="60px" width="60px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/singhhimanshu3110/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="60px" width="60px" alt="Twitter" align="right"></a>
+<a href="https://twitter.com/singhhimanshu3110" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="60px" width="60px" alt="Twitter" align="right"></a><a href="https://www.instagram.com/__singhhimanshu3110/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/instagram_brand_logo_social_media_icon.png" height="60px" width="60px" alt="Twitter" align="right"></a>
 
 ### ✨ My GitHub Stats!
 ---
