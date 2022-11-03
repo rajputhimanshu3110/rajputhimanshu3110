@@ -1,4 +1,5 @@
 - 👋 Hi, This is Himanshu Singh
+- ✅ A FullStack Web Developer
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning Data Structures and Algorithm
 
@@ -15,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ### ✨ My GitHub Stats!
 ---
 <p><a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=singhhimanshu31&show_icons=true&include_all_commits=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=singhhimanshu31&show_icons=true&include_all_commits=true&theme=light" />
 </a></p>
 <p><a href="#">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=singhhimanshu31&theme=dark" />
