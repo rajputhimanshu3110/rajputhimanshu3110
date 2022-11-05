@@ -19,5 +19,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=singhhimanshu31&show_icons=true&include_all_commits=true&theme=light" />
 </a></p>
 <p><a href="#">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=singhhimanshu31&theme=light" />
+</a></p>
+<p><a href="#">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=singhhimanshu31&theme=xcode" />
 </a></p>
