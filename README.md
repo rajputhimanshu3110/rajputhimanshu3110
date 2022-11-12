@@ -32,7 +32,7 @@
 
 ### ✨ My GitHub Stats!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajputhimanshu3110&theme=react&custom_title=Most-Used-Languages)](https://github.com/hashfx/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajputhimanshu3110&theme=react&custom_title=Most-Used-Languages)](https://github.com/rajputhimanshu3110/github-readme-stats) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajputhimanshu3110&no-bg=true&no-frame=true&theme=algolia&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 ---
