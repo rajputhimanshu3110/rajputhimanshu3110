@@ -32,16 +32,16 @@
 
 ### ✨ My GitHub Stats!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhhimanshu31&theme=react&custom_title=Most-Used-Languages)](https://github.com/hashfx/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajputhimanshu3110&theme=react&custom_title=Most-Used-Languages)](https://github.com/hashfx/github-readme-stats) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=singhhimanshu31&no-bg=true&no-frame=true&theme=algolia&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajputhimanshu3110&no-bg=true&no-frame=true&theme=algolia&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 <p><a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=singhhimanshu31&show_icons=true&include_all_commits=true&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajputhimanshu3110&show_icons=true&include_all_commits=true&theme=light" />
 </a></p>
 <p><a href="#">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=singhhimanshu31&theme=light" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=rajputhimanshu3110&theme=light" />
 </a></p>
 <p><a href="#">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=singhhimanshu31&theme=xcode" />
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rajputhimanshu3110&theme=xcode" />
 </a></p>
