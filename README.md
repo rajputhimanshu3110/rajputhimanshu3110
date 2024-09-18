@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-- 🔭 I’m currently working on **Home Service Application (Learning)**
+- 🔭 I’m currently working on **Anonymous Project**
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **PHP, React, MYSQl, React**
+- 💬 Ask me about **React, MYSQl, React Native**
 
 - 📫 How to reach me **himanshurajput31@hotmail.com**
 ## 🌐 Socials:
