@@ -207,19 +207,6 @@ Deployed early, iterated often. Performance treated as a feature, not a cleanup 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
-## &nbsp;⟢&nbsp; Engineering Activity
-
-<div align="center">
-
-
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajputhimanshu3110&hide_border=true&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF&area=true&area_color=1E3A3A&title_color=64FFDA" />
-
-<br/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
-
 ## &nbsp;⟢&nbsp; Currently
 
 <table width="100%">
